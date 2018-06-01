@@ -1,2 +1,3 @@
 # IET20RC1
-IET20RC1 Description
+
+![ex_screenshot](./img/iet20rc1.png)
